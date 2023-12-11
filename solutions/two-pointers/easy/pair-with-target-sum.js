@@ -1,6 +1,6 @@
 /**
  * Since the given array is sorted, a brute-force solution could be to iterate through the array,
- * taking one number at a time and seraching for the second number through Binary Search.
+ * taking one number at a time and searching for the second number through Binary Search.
  * The time complexity of this algorithm will be O(N * logN). 
  * 
  * Or...We can follow the Two Pointer approach. We will start with one pointer pointing to the beginning
